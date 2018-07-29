@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/node_modules/react-native/Libraries/Image/RCTImageView.m \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/node_modules/react-native/Libraries/Image/RCTImageView.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTImageSource.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/node_modules/react-native/Libraries/Image/RCTImageBlurUtils.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/node_modules/react-native/Libraries/Image/RCTImageLoader.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/node_modules/react-native/Libraries/Image/RCTImageUtils.h

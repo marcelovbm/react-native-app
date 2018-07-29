@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/node_modules/react-native/Libraries/Text/Text/RCTTextView.m \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/node_modules/react-native/Libraries/Text/Text/RCTTextView.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/marcelo/Projetos/app-project/AwesomeProject/node_modules/react-native/Libraries/Text/RCTTextTransform.h
